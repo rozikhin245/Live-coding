@@ -1,0 +1,19 @@
+/*
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
+ */
+package oprec.pkg2023.pkg220441100140;
+
+
+private static class biasa {
+
+        public biasa() {
+            harga = 500;
+        };
+        public Doble() {
+            harga = 500;
+        };
+        public Special() {
+            harga = 500;
+        };
+    }
