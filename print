@@ -1,0 +1,24 @@
+/*
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
+ */
+package oprec.pkg2023.pkg220441100140;
+
+/**
+ *
+ * @author ROZIQ
+ */
+public class print extend NewClass {
+    void menu(){
+        System.out.println("1. pesan menu");
+        System.out.println("2. lihat pemesanan");
+        System.out.println("selesaikan pemesanann");
+    }
+    
+    void paket() {
+        System.out.println("paket yang tersedia");
+        System.out.println("biasa (Rp.5000)");
+        System.out.println("double (Rp.7000)");
+        System.out.println("special (Rp.9000)");
+    }
+};
